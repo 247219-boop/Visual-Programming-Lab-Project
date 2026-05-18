@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/amna_ansar/Desktop/Visual-Programming-Lab-Project/Cartify/Cartify.csproj": {}
+  },
+  "projects": {
+    "/Users/amna_ansar/Desktop/Visual-Programming-Lab-Project/Cartify/Cartify.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/amna_ansar/Desktop/Visual-Programming-Lab-Project/Cartify/Cartify.csproj",
+        "projectName": "Cartify",
+        "projectPath": "/Users/amna_ansar/Desktop/Visual-Programming-Lab-Project/Cartify/Cartify.csproj",
+        "packagesPath": "/Users/amna_ansar/.nuget/packages/",
+        "outputPath": "/Users/amna_ansar/Desktop/Visual-Programming-Lab-Project/Cartify/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/amna_ansar/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet@8/8.0.125/libexec/sdk/8.0.125/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
