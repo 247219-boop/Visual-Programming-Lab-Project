@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/amna_ansar/Desktop/Visual-Programming-Lab-Project/Cartify/obj/Debug/net8.0/scopedcss/projectbundle/Cartify.bundle.scp.css",
+      "PackagePath": "staticwebassets/Cartify.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/amna_ansar/Desktop/Visual-Programming-Lab-Project/Cartify/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/Users/amna_ansar/Desktop/Visual-Programming-Lab-Project/Cartify/wwwroot/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/amna_ansar/Desktop/Visual-Programming-Lab-Project/Cartify/wwwroot/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/amna_ansar/Desktop/Visual-Programming-Lab-Project/Cartify/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.Cartify.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.Cartify.props",
+      "PackagePath": "build\\Cartify.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Cartify.props",
+      "PackagePath": "buildMultiTargeting\\Cartify.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Cartify.props",
+      "PackagePath": "buildTransitive\\Cartify.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
